@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/kittipongch/programming/openGL/LabCG/lab02/app'
+relocations:     []
+...
